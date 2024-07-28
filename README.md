@@ -8,11 +8,7 @@
 
 [![Volt Laravel Dashboard Preview](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/volt-free-laravel-dashboard.jpg)](https://volt-laravel-admin-dashboard.updivision.com/dashboard)
 
-Hello, this is a free livewire admin project for everyone want to use as side project
-
-Never start a development project from scratch again. We've partnered with UPDIVISION to create the ultimate design & development toolbox, free for personal and commercial projects. 
-
-Volt Dashboard Laravel features dozens of handcrafted UI elements tailored for Bootstrap 5 and an out of the box Laravel backend. The Livewire integration allows you to build dynamic interfaces easier without leaving the comfort of your favourite framework. If you combine this even further with Alpine.js, you get the perfect combo for your next big project.    
+Hello, this is a free livewire admin project for everyone want to use as side project. This dashboard admin is from Themesberg, feel free to use it for all personal or side project.
 
 ## Free for personal and commercial projects
 
